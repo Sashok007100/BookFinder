@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BookFinder</string>
+    <string name="detail">Подробно</string>
+
+    <array name="switch_tabs">
+        <item>Книги</item>
+        <item>Авторы</item>
+    </array>
+    <string name="helptext">Введите запрос</string>
+    <string name="search_error">Не удалось ничего найти</string>
+    <string name="favorites">Избранные</string>
+</resources>

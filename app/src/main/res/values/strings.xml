@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BookCatalog</string>
+
+    <array name="switch_tabs">
+        <item>Books</item>
+        <item>Authors</item>
+    </array>
+    <string name="detail">Detail</string>
+    <string name="helptext">Type query here</string>
+    <string name="search_error">Could not find anything</string>
+    <string name="favorites">Favorites</string>
+</resources>
